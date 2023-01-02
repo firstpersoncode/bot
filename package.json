@@ -1,0 +1,22 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.0",
+    "human-names": "^1.0.12",
+    "webdriverio": "^8.0.15"
+  },
+  "devDependencies": {
+    "appium": "^2.0.0-beta.48",
+    "appium-uiautomator2-driver": "^2.12.1",
+    "chromedriver": "^108.0.0"
+  }
+}

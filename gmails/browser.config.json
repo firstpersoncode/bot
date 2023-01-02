@@ -1,0 +1,9 @@
+{
+  "capabilities": {
+    "browserName": "chrome",
+    "goog:chromeOptions": {
+      "args": ["--incognito"]
+    }
+  },
+  "logLevel": "error"
+}
